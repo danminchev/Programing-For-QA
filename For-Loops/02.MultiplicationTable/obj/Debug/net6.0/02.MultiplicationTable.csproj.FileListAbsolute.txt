@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

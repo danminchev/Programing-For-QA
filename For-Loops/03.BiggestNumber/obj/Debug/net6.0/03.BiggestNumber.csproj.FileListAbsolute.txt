@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\refint\03.BiggestNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\03.BiggestNumber\obj\Debug\net6.0\ref\03.BiggestNumber.dll

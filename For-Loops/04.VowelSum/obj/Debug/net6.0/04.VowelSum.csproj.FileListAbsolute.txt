@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\bin\Debug\net6.0\04.VowelSum.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\bin\Debug\net6.0\04.VowelSum.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\bin\Debug\net6.0\04.VowelSum.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\bin\Debug\net6.0\04.VowelSum.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\bin\Debug\net6.0\04.VowelSum.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\refint\04.VowelSum.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\04.VowelSum.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Loops-Exercise\04.VowelSum\obj\Debug\net6.0\ref\04.VowelSum.dll
