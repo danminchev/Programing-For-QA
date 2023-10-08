@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

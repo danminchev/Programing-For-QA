@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\bin\Debug\net6.0\FreeezingWeather.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\bin\Debug\net6.0\FreeezingWeather.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\bin\Debug\net6.0\FreeezingWeather.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\bin\Debug\net6.0\FreeezingWeather.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\bin\Debug\net6.0\FreeezingWeather.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\refint\FreeezingWeather.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\FreeezingWeather.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\FreeezingWeather\obj\Debug\net6.0\ref\FreeezingWeather.dll

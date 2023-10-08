@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\refint\ValidTriangle.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\ValidTriangle\obj\Debug\net6.0\ref\ValidTriangle.dll

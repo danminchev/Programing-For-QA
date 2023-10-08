@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\bin\Debug\net6.0\9.MovingOut.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\bin\Debug\net6.0\9.MovingOut.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\bin\Debug\net6.0\9.MovingOut.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\bin\Debug\net6.0\9.MovingOut.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\bin\Debug\net6.0\9.MovingOut.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\refint\9.MovingOut.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\9.MovingOut.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\9.MovingOut\obj\Debug\net6.0\ref\9.MovingOut.dll

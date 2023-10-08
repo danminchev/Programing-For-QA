@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\refint\04.ExamPreparation.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleLoops\04.ExamPreparation\obj\Debug\net6.0\ref\04.ExamPreparation.dll

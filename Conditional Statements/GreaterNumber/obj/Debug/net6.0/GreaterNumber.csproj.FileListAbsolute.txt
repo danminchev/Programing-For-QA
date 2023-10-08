@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

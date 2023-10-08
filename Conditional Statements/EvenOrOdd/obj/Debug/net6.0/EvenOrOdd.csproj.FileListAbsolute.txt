@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

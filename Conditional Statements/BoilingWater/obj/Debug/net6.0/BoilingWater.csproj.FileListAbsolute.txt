@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\bin\Debug\net6.0\BoilingWater.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\bin\Debug\net6.0\BoilingWater.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\bin\Debug\net6.0\BoilingWater.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\bin\Debug\net6.0\BoilingWater.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\bin\Debug\net6.0\BoilingWater.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\refint\BoilingWater.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\BoilingWater.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\SimpleConditionalStatements\BoilingWater\obj\Debug\net6.0\ref\BoilingWater.dll
