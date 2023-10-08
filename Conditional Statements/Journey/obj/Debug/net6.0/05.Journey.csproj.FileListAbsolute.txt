@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\bin\Debug\net6.0\06.Operations.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\refint\06.Operations.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\06.Operations.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\06.Operations\obj\Debug\net6.0\ref\06.Operations.dll

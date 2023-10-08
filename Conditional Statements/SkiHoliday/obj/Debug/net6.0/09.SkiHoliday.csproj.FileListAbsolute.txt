@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\bin\Debug\net6.0\09.SkiHoliday.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\bin\Debug\net6.0\09.SkiHoliday.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\bin\Debug\net6.0\09.SkiHoliday.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\bin\Debug\net6.0\09.SkiHoliday.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\bin\Debug\net6.0\09.SkiHoliday.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\refint\09.SkiHoliday.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\09.SkiHoliday.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Conditional Statements,NestedConditionalStatements\09.SkiHoliday\obj\Debug\net6.0\ref\09.SkiHoliday.dll
