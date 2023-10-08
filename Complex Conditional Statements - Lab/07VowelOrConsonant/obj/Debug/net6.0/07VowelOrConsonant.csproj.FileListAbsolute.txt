@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\refint\07VowelOrConsonant.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\07VowelOrConsonant\obj\Debug\net6.0\ref\07VowelOrConsonant.dll

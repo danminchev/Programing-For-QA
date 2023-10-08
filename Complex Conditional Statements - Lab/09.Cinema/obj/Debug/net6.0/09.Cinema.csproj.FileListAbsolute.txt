@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\bin\Debug\net6.0\09.Cinema.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\bin\Debug\net6.0\09.Cinema.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\bin\Debug\net6.0\09.Cinema.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\bin\Debug\net6.0\09.Cinema.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\bin\Debug\net6.0\09.Cinema.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\refint\09.Cinema.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\09.Cinema.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\09.Cinema\obj\Debug\net6.0\ref\09.Cinema.dll

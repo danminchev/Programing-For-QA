@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll

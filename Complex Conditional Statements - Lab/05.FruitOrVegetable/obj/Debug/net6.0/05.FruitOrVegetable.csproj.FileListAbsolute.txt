@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\refint\05.FruitOrVegetable.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\05.FruitOrVegetable\obj\Debug\net6.0\ref\05.FruitOrVegetable.dll

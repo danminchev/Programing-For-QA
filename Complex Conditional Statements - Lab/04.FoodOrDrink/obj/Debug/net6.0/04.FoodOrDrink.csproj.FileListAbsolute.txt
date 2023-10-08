@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\bin\Debug\net6.0\04.FoodOrDrink.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\refint\04.FoodOrDrink.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\04.FoodOrDrink.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Complex Conditional Statements - Lab\04.FoodOrDrink\obj\Debug\net6.0\ref\04.FoodOrDrink.dll
