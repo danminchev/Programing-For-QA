@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\refint\01.NumberType.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\01.NumberType\obj\Debug\net6.0\ref\01.NumberType.dll

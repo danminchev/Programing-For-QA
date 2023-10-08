@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\bin\Debug\net6.0\04.NumberOpe.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\bin\Debug\net6.0\04.NumberOpe.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\bin\Debug\net6.0\04.NumberOpe.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\bin\Debug\net6.0\04.NumberOpe.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\bin\Debug\net6.0\04.NumberOpe.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\refint\04.NumberOpe.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\04.NumberOpe.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\04.NumberOpe\obj\Debug\net6.0\ref\04.NumberOpe.dll

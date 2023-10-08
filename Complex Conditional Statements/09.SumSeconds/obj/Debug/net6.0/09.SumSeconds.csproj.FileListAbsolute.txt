@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll

@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\bin\Debug\net6.0\07.WorkingHours.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\bin\Debug\net6.0\07.WorkingHours.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\bin\Debug\net6.0\07.WorkingHours.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\bin\Debug\net6.0\07.WorkingHours.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\bin\Debug\net6.0\07.WorkingHours.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\refint\07.WorkingHours.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\07.WorkingHours.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\Simple and Complex Conditional Statements - Exercise\07.WorkingHours\obj\Debug\net6.0\ref\07.WorkingHours.dll
