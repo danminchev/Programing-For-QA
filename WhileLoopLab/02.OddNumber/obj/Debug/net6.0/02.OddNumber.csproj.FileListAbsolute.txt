@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\refint\02.OddNumber.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\02.OddNumber\obj\Debug\net6.0\ref\02.OddNumber.dll

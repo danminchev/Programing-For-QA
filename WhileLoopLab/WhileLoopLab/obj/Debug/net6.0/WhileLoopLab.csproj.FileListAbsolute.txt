@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\bin\Debug\net6.0\WhileLoopLab.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\bin\Debug\net6.0\WhileLoopLab.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\bin\Debug\net6.0\WhileLoopLab.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\bin\Debug\net6.0\WhileLoopLab.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\bin\Debug\net6.0\WhileLoopLab.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\refint\WhileLoopLab.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\WhileLoopLab.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\WhileLoopLab\obj\Debug\net6.0\ref\WhileLoopLab.dll

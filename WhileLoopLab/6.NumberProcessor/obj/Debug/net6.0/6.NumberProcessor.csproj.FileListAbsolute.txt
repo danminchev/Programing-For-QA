@@ -1,0 +1,14 @@
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\bin\Debug\net6.0\6.NumberProcessor.exe
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\bin\Debug\net6.0\6.NumberProcessor.deps.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\bin\Debug\net6.0\6.NumberProcessor.runtimeconfig.json
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\bin\Debug\net6.0\6.NumberProcessor.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\bin\Debug\net6.0\6.NumberProcessor.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.AssemblyInfoInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.AssemblyInfo.cs
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.csproj.CoreCompileInputs.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\refint\6.NumberProcessor.dll
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.pdb
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\6.NumberProcessor.genruntimeconfig.cache
+D:\Programming-Fundamentals-and-Unit-Testing\Calculation\WhileLoopLab\6.NumberProcessor\obj\Debug\net6.0\ref\6.NumberProcessor.dll
