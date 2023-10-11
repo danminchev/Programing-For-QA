@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\For-Loops"
+    "\\Loops",
+    "\\Loops\\06.SpecialNumber"
   ],
+  "SelectedNode": "\\Loops\\06.SpecialNumber\\06.SpecialNumber.cs",
   "PreviewInSolutionExplorer": false
 }
