@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.exe
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.deps.json
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.dll
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.dll
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\refint\02. Even Powers of 2.dll
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Nested Loops\02. Even Powers of 2\02. Even Powers of 2\obj\Debug\net6.0\ref\02. Even Powers of 2.dll

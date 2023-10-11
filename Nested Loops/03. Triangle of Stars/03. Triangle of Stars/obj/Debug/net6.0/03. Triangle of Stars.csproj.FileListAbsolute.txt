@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.exe
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.deps.json
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.dll
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.dll
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\refint\03. Triangle of Stars.dll
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Nested Loops\03. Triangle of Stars\03. Triangle of Stars\obj\Debug\net6.0\ref\03. Triangle of Stars.dll
