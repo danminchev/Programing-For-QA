@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\bin\Debug\net6.0\07. Sum of Digits Calculator.exe
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\bin\Debug\net6.0\07. Sum of Digits Calculator.deps.json
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\bin\Debug\net6.0\07. Sum of Digits Calculator.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\bin\Debug\net6.0\07. Sum of Digits Calculator.dll
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\bin\Debug\net6.0\07. Sum of Digits Calculator.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.dll
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\refint\07. Sum of Digits Calculator.dll
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\07. Sum of Digits Calculator.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Nested Loops\07. Sum of Digits Calculator\07. Sum of Digits Calculator\obj\Debug\net6.0\ref\07. Sum of Digits Calculator.dll
