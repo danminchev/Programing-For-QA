@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\bin\Debug\net6.0\11. Happy Numbers.exe
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\bin\Debug\net6.0\11. Happy Numbers.deps.json
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\bin\Debug\net6.0\11. Happy Numbers.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\bin\Debug\net6.0\11. Happy Numbers.dll
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\bin\Debug\net6.0\11. Happy Numbers.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.dll
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\refint\11. Happy Numbers.dll
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.pdb
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\11. Happy Numbers.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Nested Loops\11. Happy Numbers\11. Happy Numbers\obj\Debug\net6.0\ref\11. Happy Numbers.dll
