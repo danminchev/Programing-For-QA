@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\bin\Debug\net6.0\09. Math Power.exe
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\bin\Debug\net6.0\09. Math Power.deps.json
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\bin\Debug\net6.0\09. Math Power.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\bin\Debug\net6.0\09. Math Power.dll
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\bin\Debug\net6.0\09. Math Power.pdb
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.dll
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\refint\09. Math Power.dll
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.pdb
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\09. Math Power.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\09. Math Power\09. Math Power\obj\Debug\net6.0\ref\09. Math Power.dll

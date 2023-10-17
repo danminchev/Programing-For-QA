@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\bin\Debug\net6.0\03. Factorial Division.exe
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\bin\Debug\net6.0\03. Factorial Division.deps.json
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\bin\Debug\net6.0\03. Factorial Division.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\bin\Debug\net6.0\03. Factorial Division.dll
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\bin\Debug\net6.0\03. Factorial Division.pdb
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.dll
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\refint\03. Factorial Division.dll
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.pdb
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\03. Factorial Division.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\03. Factorial Division\03. Factorial Division\obj\Debug\net6.0\ref\03. Factorial Division.dll

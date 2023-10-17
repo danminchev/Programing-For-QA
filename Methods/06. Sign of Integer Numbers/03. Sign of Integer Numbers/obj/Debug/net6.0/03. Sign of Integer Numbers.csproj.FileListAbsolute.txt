@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\bin\Debug\net6.0\03. Sign of Integer Numbers.exe
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\bin\Debug\net6.0\03. Sign of Integer Numbers.deps.json
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\bin\Debug\net6.0\03. Sign of Integer Numbers.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\bin\Debug\net6.0\03. Sign of Integer Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\bin\Debug\net6.0\03. Sign of Integer Numbers.pdb
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\refint\03. Sign of Integer Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.pdb
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\03. Sign of Integer Numbers.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\03. Sign of Integer Numbers\03. Sign of Integer Numbers\obj\Debug\net6.0\ref\03. Sign of Integer Numbers.dll
