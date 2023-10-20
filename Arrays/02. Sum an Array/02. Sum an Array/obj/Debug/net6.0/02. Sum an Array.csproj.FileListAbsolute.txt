@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.exe
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.deps.json
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.dll
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.pdb
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.dll
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\refint\02. Sum an Array.dll
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.pdb
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Arrays\02. Sum an Array\02. Sum an Array\obj\Debug\net6.0\ref\02. Sum an Array.dll

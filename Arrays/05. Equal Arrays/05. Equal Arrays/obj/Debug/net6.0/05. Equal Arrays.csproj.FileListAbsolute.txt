@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.exe
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.deps.json
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.dll
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.pdb
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.dll
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\refint\05. Equal Arrays.dll
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.pdb
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Arrays\05. Equal Arrays\05. Equal Arrays\obj\Debug\net6.0\ref\05. Equal Arrays.dll
