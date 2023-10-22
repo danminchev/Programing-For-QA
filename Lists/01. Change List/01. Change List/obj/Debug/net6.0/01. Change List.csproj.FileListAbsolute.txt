@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\bin\Debug\net6.0\01. Change List.exe
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\bin\Debug\net6.0\01. Change List.deps.json
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\bin\Debug\net6.0\01. Change List.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\bin\Debug\net6.0\01. Change List.dll
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\bin\Debug\net6.0\01. Change List.pdb
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.dll
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\refint\01. Change List.dll
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.pdb
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\01. Change List.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\01. Change List\01. Change List\obj\Debug\net6.0\ref\01. Change List.dll

@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\bin\Debug\net6.0\02. List of Products.exe
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\bin\Debug\net6.0\02. List of Products.deps.json
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\bin\Debug\net6.0\02. List of Products.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\bin\Debug\net6.0\02. List of Products.dll
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\bin\Debug\net6.0\02. List of Products.pdb
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.dll
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\refint\02. List of Products.dll
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.pdb
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\02. List of Products.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\02. List of Products\02. List of Products\obj\Debug\net6.0\ref\02. List of Products.dll

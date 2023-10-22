@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Remove Negatives and Reverse", "03. Remove Negatives and Reverse\03. Remove Negatives and Reverse.csproj", "{1B9A9CFA-BC51-483E-8B8A-18E167B8629A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9A9CFA-BC51-483E-8B8A-18E167B8629A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9A9CFA-BC51-483E-8B8A-18E167B8629A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9A9CFA-BC51-483E-8B8A-18E167B8629A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9A9CFA-BC51-483E-8B8A-18E167B8629A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81295178-732B-4C51-A686-434974998252}
+	EndGlobalSection
+EndGlobal
