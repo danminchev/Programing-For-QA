@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\bin\Debug\net6.0\07. Condense Array to Number.exe
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\bin\Debug\net6.0\07. Condense Array to Number.deps.json
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\bin\Debug\net6.0\07. Condense Array to Number.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\bin\Debug\net6.0\07. Condense Array to Number.dll
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\bin\Debug\net6.0\07. Condense Array to Number.pdb
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.dll
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\refint\07. Condense Array to Number.dll
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.pdb
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\07. Condense Array to Number.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\07. Condense Array to Number\07. Condense Array to Number\obj\Debug\net6.0\ref\07. Condense Array to Number.dll

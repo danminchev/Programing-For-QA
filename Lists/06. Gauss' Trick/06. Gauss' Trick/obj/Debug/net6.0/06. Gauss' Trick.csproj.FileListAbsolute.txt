@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\bin\Debug\net6.0\06. Gauss' Trick.exe
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\bin\Debug\net6.0\06. Gauss' Trick.deps.json
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\bin\Debug\net6.0\06. Gauss' Trick.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\bin\Debug\net6.0\06. Gauss' Trick.dll
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\bin\Debug\net6.0\06. Gauss' Trick.pdb
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.dll
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\refint\06. Gauss' Trick.dll
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.pdb
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\06. Gauss' Trick.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\06. Gauss' Trick\06. Gauss' Trick\obj\Debug\net6.0\ref\06. Gauss' Trick.dll

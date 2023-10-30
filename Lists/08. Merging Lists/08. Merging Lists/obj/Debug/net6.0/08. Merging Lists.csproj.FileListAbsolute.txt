@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\bin\Debug\net6.0\08. Merging Lists.exe
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\bin\Debug\net6.0\08. Merging Lists.deps.json
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\bin\Debug\net6.0\08. Merging Lists.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\bin\Debug\net6.0\08. Merging Lists.dll
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\bin\Debug\net6.0\08. Merging Lists.pdb
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.dll
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\refint\08. Merging Lists.dll
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.pdb
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\08. Merging Lists.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\08. Merging Lists\08. Merging Lists\obj\Debug\net6.0\ref\08. Merging Lists.dll

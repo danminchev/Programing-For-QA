@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\bin\Debug\net6.0\09. Bomb Numbers.exe
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\bin\Debug\net6.0\09. Bomb Numbers.deps.json
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\bin\Debug\net6.0\09. Bomb Numbers.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\bin\Debug\net6.0\09. Bomb Numbers.dll
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\bin\Debug\net6.0\09. Bomb Numbers.pdb
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.dll
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\refint\09. Bomb Numbers.dll
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.pdb
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\09. Bomb Numbers.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\09. Bomb Numbers\09. Bomb Numbers\obj\Debug\net6.0\ref\09. Bomb Numbers.dll

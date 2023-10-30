@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Sum Adjacent Equal Numbers", "12. Sum Adjacent Equal Numbers\12. Sum Adjacent Equal Numbers.csproj", "{19B124D4-82FC-4ABB-A402-2E9C9C2174DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B124D4-82FC-4ABB-A402-2E9C9C2174DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B124D4-82FC-4ABB-A402-2E9C9C2174DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B124D4-82FC-4ABB-A402-2E9C9C2174DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B124D4-82FC-4ABB-A402-2E9C9C2174DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09DB6173-340A-459E-9037-90B85FA3D5D7}
+	EndGlobalSection
+EndGlobal
