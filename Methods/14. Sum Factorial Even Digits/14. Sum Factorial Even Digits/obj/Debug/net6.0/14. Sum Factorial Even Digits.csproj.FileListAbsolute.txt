@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\bin\Debug\net6.0\14. Sum Factorial Even Digits.exe
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\bin\Debug\net6.0\14. Sum Factorial Even Digits.deps.json
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\bin\Debug\net6.0\14. Sum Factorial Even Digits.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\bin\Debug\net6.0\14. Sum Factorial Even Digits.dll
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\bin\Debug\net6.0\14. Sum Factorial Even Digits.pdb
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.dll
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\refint\14. Sum Factorial Even Digits.dll
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.pdb
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\14. Sum Factorial Even Digits.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\14. Sum Factorial Even Digits\14. Sum Factorial Even Digits\obj\Debug\net6.0\ref\14. Sum Factorial Even Digits.dll

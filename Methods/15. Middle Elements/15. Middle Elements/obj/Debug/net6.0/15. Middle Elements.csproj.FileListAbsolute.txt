@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\bin\Debug\net6.0\15. Middle Elements.exe
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\bin\Debug\net6.0\15. Middle Elements.deps.json
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\bin\Debug\net6.0\15. Middle Elements.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\bin\Debug\net6.0\15. Middle Elements.dll
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\bin\Debug\net6.0\15. Middle Elements.pdb
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.dll
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\refint\15. Middle Elements.dll
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.pdb
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\15. Middle Elements.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\15. Middle Elements\15. Middle Elements\obj\Debug\net6.0\ref\15. Middle Elements.dll
