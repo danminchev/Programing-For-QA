@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\bin\Debug\net6.0\16. Pascal Triangle.exe
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\bin\Debug\net6.0\16. Pascal Triangle.deps.json
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\bin\Debug\net6.0\16. Pascal Triangle.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\bin\Debug\net6.0\16. Pascal Triangle.dll
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\bin\Debug\net6.0\16. Pascal Triangle.pdb
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.dll
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\refint\16. Pascal Triangle.dll
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.pdb
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\16. Pascal Triangle.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\16. Pascal Triangle\16. Pascal Triangle\obj\Debug\net6.0\ref\16. Pascal Triangle.dll

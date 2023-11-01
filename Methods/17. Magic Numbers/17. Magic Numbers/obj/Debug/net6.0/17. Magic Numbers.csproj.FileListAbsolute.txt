@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\bin\Debug\net6.0\17. Magic Numbers.exe
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\bin\Debug\net6.0\17. Magic Numbers.deps.json
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\bin\Debug\net6.0\17. Magic Numbers.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\bin\Debug\net6.0\17. Magic Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\bin\Debug\net6.0\17. Magic Numbers.pdb
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\refint\17. Magic Numbers.dll
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.pdb
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\17. Magic Numbers.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\17. Magic Numbers\17. Magic Numbers\obj\Debug\net6.0\ref\17. Magic Numbers.dll

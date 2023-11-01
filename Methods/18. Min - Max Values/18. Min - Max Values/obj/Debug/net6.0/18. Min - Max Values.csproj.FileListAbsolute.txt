@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\bin\Debug\net6.0\18. Min - Max Values.exe
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\bin\Debug\net6.0\18. Min - Max Values.deps.json
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\bin\Debug\net6.0\18. Min - Max Values.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\bin\Debug\net6.0\18. Min - Max Values.dll
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\bin\Debug\net6.0\18. Min - Max Values.pdb
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.dll
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\refint\18. Min - Max Values.dll
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.pdb
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\18. Min - Max Values.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Methods\18. Min - Max Values\18. Min - Max Values\obj\Debug\net6.0\ref\18. Min - Max Values.dll
