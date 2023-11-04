@@ -1,0 +1,14 @@
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\bin\Debug\net6.0\16. Average Last Elements.exe
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\bin\Debug\net6.0\16. Average Last Elements.deps.json
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\bin\Debug\net6.0\16. Average Last Elements.runtimeconfig.json
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\bin\Debug\net6.0\16. Average Last Elements.dll
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\bin\Debug\net6.0\16. Average Last Elements.pdb
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.AssemblyInfoInputs.cache
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.AssemblyInfo.cs
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.csproj.CoreCompileInputs.cache
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.dll
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\refint\16. Average Last Elements.dll
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.pdb
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\16. Average Last Elements.genruntimeconfig.cache
+D:\GitHub\Programing-For-QA\Lists\16. Average Last Elements\16. Average Last Elements\obj\Debug\net6.0\ref\16. Average Last Elements.dll
